@@ -1,0 +1,5 @@
+Lamp 2x
+kabels 4x
+resistor 2x
+2x lampje
+arduino 2x
