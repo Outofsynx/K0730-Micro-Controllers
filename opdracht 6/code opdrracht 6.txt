@@ -1,0 +1,15 @@
+/*	This is a default program--
+	Use File->Load Prog to load a different program
+*/
+
+int ledpin=8;
+
+void setup()
+{
+	pinMode(ledpin,OUTPUT);
+}
+
+void loop()
+{
+	digitalWrite(ledpin,HIGH);
+}
